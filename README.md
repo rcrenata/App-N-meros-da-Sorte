@@ -15,7 +15,7 @@ Aplicativo de sorteio de números desenvolvido em Flutter, que serviu como meu p
 - **Dart:** Linguagem de programação base do Flutter.
 - **Emulador Android:** Usado para testar e depurar o aplicativo em um ambiente virtual.
 
-## 📱 Telas do App
+## 📱 Telas do App (emulador android)
 
 <img width="284" height="612" alt="Captura de tela 2025-07-24 114415" src="https://github.com/user-attachments/assets/704db350-41db-4d63-bcaa-e16e21cc3a78" />
 <img width="294" height="612" alt="Captura de tela 2025-07-24 114440" src="https://github.com/user-attachments/assets/d1055d13-a711-445b-bbbd-c1a6e261ed28" />
