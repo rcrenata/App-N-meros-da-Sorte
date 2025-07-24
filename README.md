@@ -1,16 +1,21 @@
-# sorte_app
+# 🎲 App Número da Sorte
 
-A new Flutter project.
+Aplicativo de sorteio de números desenvolvido em Flutter, que serviu como meu primeiro projeto prático na trilha de capacitação da Venturus.
 
-## Getting Started
+## ✨ Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Geração de Números Aleatórios:** Clique no botão para sortear um novo número entre 1 e 10.
+- **Controle de Repetição:** O app armazena os números já sorteados e exibe um alerta caso um número seja sorteado novamente.
+- **Reset do Sorteio:** Um botão flutuante permite limpar o histórico e começar um novo sorteio.
+- **Interface Reativa:** A tela é atualizada a cada ação do usuário, refletindo o uso de um `StatefulWidget` para gerenciar o estado.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter:** Framework principal para a construção da interface e lógica do app.
+- **Dart:** Linguagem de programação base do Flutter.
+- **Emulador Android:** Usado para testar e depurar o aplicativo em um ambiente virtual.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Telas do App
+
+<img width="284" height="612" alt="Captura de tela 2025-07-24 114415" src="https://github.com/user-attachments/assets/704db350-41db-4d63-bcaa-e16e21cc3a78" />
+<img width="294" height="612" alt="Captura de tela 2025-07-24 114440" src="https://github.com/user-attachments/assets/d1055d13-a711-445b-bbbd-c1a6e261ed28" />
